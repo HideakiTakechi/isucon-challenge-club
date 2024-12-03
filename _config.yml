@@ -1,5 +1,5 @@
 # 使用するテーマ
-theme: minima
+remote_theme: pages-themes/cayman@v0.2.0
 
 # Markdownの設定
 markdown: kramdown
@@ -12,5 +12,4 @@ url: "https://HideakiTakechi.github.io"
 
 # ページ生成に関する設定
 plugins:
-  - jekyll-feed # RSSフィードを有効化
-  - jekyll-seo-tag # SEOタグを有効化
+- jekyll-remote-theme # add this line to the plugins list if you already have one
