@@ -1,0 +1,15 @@
+# 使用するテーマ
+theme: minima
+
+# Markdownの設定
+markdown: kramdown
+
+# サイトの基本情報
+title: ISUCON14 try by Challenge Club Website
+description: A Challenge Club GitHub Pages site.
+baseurl: "" 
+
+# ページ生成に関する設定
+plugins:
+  - jekyll-feed # RSSフィードを有効化
+  - jekyll-seo-tag # SEOタグを有効化
