@@ -8,6 +8,7 @@ markdown: kramdown
 title: ISUCON14 try by Challenge Club Website
 description: A Challenge Club GitHub Pages site.
 baseurl: "" 
+url: "https://HideakiTakechi.github.io"
 
 # ページ生成に関する設定
 plugins:
